@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Saurab Shrestha
 - 👀 I’m interested in Information and technology
+- 👀 I have knowledge about the framework and done few project with mvc
 - 🌱 I’m currently learning java script
 - 📫 How to reach me you can contact me on 9813508930 or @ saurab.shrestha1010@gmail.com
 
