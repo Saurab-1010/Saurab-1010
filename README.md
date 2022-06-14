@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurab Shrestha
 - 👀 I’m interested in Information and technology
-- 👀 I have knowledge about the framework and done few project with mvc
+- 👀 I am currenly working with asp.net core with framework 6
 - 🌱 I’m currently learning c#
 - 📫 How to reach me you can contact me on 9813508930 or @ saurab.shrestha1010@gmail.com
 
