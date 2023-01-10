@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saurab Shrestha
 - 👀 I’m interested in Information and technology
 - 👀 I am currenly working with asp.net core
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# and umbraco.
 - 📫 How to reach me you can contact me on saurab.shrestha1010@gmail.com
 
 <!---
